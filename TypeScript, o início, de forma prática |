@@ -1,0 +1,17 @@
+TypeScript, o início, de forma prática | MasterClass #07
+https://www.youtube.com/watch?v=0mYq5LrQN1s&ab_channel=Rocketseat
+
+
+TypeScript é uma linguagem de programação e implementa algumas features 
+que o JavaScript demorava muito pra implementar.
+
+O JavaScript conseguiu resolver isso, mas continuou
+valendo a pena trabalhar com TypeScript porque 
+podemos trabalhar com tipagens. 
+
+Vantagens do TypeScript:
+- Projetos de alta escalabilidade;
+- Tipagem
+- Reaproveitamento de projeto JavaScript
+
+Ele adiciona tipagem dentro de um JavaScript
